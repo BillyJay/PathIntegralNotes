@@ -1,3 +1,3 @@
 # PathIntegralNotes
 
-A short introduction to Feynman's path integral and the functional field integral.
+My lecture notes for a short introduction to the path and functional integral that I gave at the TU Munich in 2019. 
